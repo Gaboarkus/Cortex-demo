@@ -50,13 +50,6 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCase_Tabs.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "467ab980-d9da-4713-8709-09498ce477bc",
-        "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase_tools.xaml"
       }
     ],
     "saveToCloud": false
